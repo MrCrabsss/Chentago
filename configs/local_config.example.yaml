@@ -1,0 +1,3 @@
+katago_path: "C:/path/to/katago.exe"
+model_path: "C:/path/to/model.bin.gz"
+config_path: "C:/path/to/analysis_config.cfg"
